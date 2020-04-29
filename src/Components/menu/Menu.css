@@ -1,0 +1,16 @@
+.Menu {
+  min-height: 87vh;
+  border-right: 1px solid #ccc;
+  text-align: center;
+}
+
+.MenuTitle {
+  margin: auto;
+  padding: 15px;
+  color: blue;
+}
+
+.Root {
+  flex-grow: 1;
+  display: "flex";
+}

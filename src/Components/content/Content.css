@@ -1,0 +1,23 @@
+.Container {
+  max-height: 440;
+}
+
+.Root1 {
+  width: 100%;
+}
+
+.MuiPaper-root.MuiTableContainer-root.MuiPaper-elevation1.MuiPaper-rounded {
+  min-height: 35vh !important;
+  max-height: 65vh !important;
+}
+
+.MuiTypography-root.MuiTablePagination-caption.MuiTypography-body2.MuiTypography-colorInherit {
+  display: none !important;
+}
+.MuiInputBase-root.MuiTablePagination-input.MuiTablePagination-selectRoot {
+  display: none !important;
+}
+
+th {
+  font-size: 1.3rem !important;
+}

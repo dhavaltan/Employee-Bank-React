@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #2d68d6;
+  align-items: center;
+  height: 6vh;
+  margin: 0 !important ;
+  color: white;
+}
+
+.MuiButtonBase-root .MuiButton-root .MuiButton-text:active {
+  background-color: #eee;
+}
+
+.MuiTable-root {
+  width: 80% !important;
+}
+
+.MuiPaper-root {
+  display: flex;
+  justify-content: center;
+  box-shadow: none !important;
+}
+
+.Notification-Modal {
+  display: flex;
+  justify-content: flex-end;
+  height: 21vh;
+  margin-top: 6vh;
+}
+
+.Notification-Paper {
+  background-color: #ccc;
+  box-shadow: azure;
+  padding: 20px;
+}

@@ -1,0 +1,8 @@
+.CardContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.MuiPaper-root.MuiCard-root.MuiPaper-outlined.MuiPaper-rounded {
+  height: 14vh;
+}
